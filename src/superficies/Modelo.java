@@ -7,7 +7,7 @@ package superficies;
 
 /**
  *
- * @author Zarza
+ * @author rzarzafernandez
  */
 
 public class Modelo {
